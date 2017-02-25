@@ -4,7 +4,7 @@
 	branch = master
 [submodule "dashboard"]
 	path = dashboard
-	url = https://github.com/QuickBox/quickbox_dashboard.git
+url=https://github.com/OtakuNekoP/quickbox_dashboard.git
 	branch = master
 [submodule "themes"]
 	path = themes
