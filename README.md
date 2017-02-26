@@ -1,5 +1,10 @@
 [![QuickBox](https://github.com/QuickBox/quickbox_github_assets/blob/master/img/quickbox2.png "QuickBox")](https://quickbox.io)
-
+## My own install script
+```
+apt-get -y update; apt-get -y upgrade; apt-get -y install git lsb-release; \
+git clone --recursive https://github.com/OtakuNekoP/QuickBox /etc/QuickBox &&
+bash /etc/QuickBox/setup/quickbox-setup
+```
 
 ## To make use of the GitHub repo (all future updates posted here!)
 >This step is only required for users who are coming off of our self-hosted GitLab repositories. If you are installing from fresh, please see [How to install](#how-to-install)
