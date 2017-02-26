@@ -6,6 +6,11 @@ git clone --recursive https://github.com/OtakuNekoP/QuickBox /etc/QuickBox &&
 bash /etc/QuickBox/setup/quickbox-setup
 ```
 
+##Transmission Web Control issue
+Should manually select download dir to `/home/${username}/torrents/transmission` in the web page settings.
+
+
+
 ## To make use of the GitHub repo (all future updates posted here!)
 >This step is only required for users who are coming off of our self-hosted GitLab repositories. If you are installing from fresh, please see [How to install](#how-to-install)
 
