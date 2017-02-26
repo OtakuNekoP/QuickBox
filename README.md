@@ -18,7 +18,7 @@ rm -rf QuickBox
 ### [2]:
 grab the current/future QuickBox repository with the following:
 ```
-git clone --recursive https://github.com/QuickBox/QuickBox /etc/QuickBox
+git clone --recursive https://github.com/OtakuNekoP/QuickBox /etc/QuickBox
 ```
 
 ### [3]:
