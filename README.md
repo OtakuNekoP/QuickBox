@@ -1,5 +1,5 @@
 [![QuickBox](https://github.com/QuickBox/quickbox_github_assets/blob/master/img/quickbox2.png "QuickBox")](https://quickbox.io)
-## My own install script
+## My own install script (QuickBox-oMod)
 ```
 apt-get -y update; apt-get -y upgrade; apt-get -y install git lsb-release; \
 git clone --recursive https://github.com/OtakuNekoP/QuickBox /etc/QuickBox &&
